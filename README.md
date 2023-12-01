@@ -1,2 +1,3 @@
 # Demo-Dyp 
-Simple program on GitHub 
+This is my First Repository.
+By Anushka Chopade 
